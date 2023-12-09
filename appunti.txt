@@ -1,0 +1,5 @@
+Pipeline:
+1) Data augmentation
+2) Scelta del modello
+3) Costruzione della Loss
+4) Valutazione di eventuali variazioni architetturali
